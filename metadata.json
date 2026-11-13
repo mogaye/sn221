@@ -1,0 +1,6 @@
+{
+  "name": "Histoire du Sénégal",
+  "description": "Portail dédié à l'histoire, la culture, les grandes figures, les événements et les régions du Sénégal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
